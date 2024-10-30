@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HafsaKM
 - 👀 I’m interested in systems and synthetic biology based startups
-- 🌱 I’m currently learning how to call variants from RNA-seq data extracted from FFPE tissues 
+- 🌱 I’m currently using scRNA data to map differentiation trajectories 
 - 💞️ I’m looking to collaborate on computational biology projects (and wet lab) with entreprenurial goals
 - 📫 How to reach me hafsa.kajamoinudeen@gmail.com
 
